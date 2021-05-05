@@ -1,1 +1,1 @@
-# Few useful/helpful bash shell scripts
+# Few useful/helpful bash shell scripts I wrote
